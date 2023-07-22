@@ -1,0 +1,25 @@
+h1 {
+    color: green;
+    font-size: 80px;
+    text-align: center;
+
+}
+h2 {
+    color: green;
+    font-size: 30px;
+    text-align: center;
+}
+a {
+    
+    color: green;
+    font-size: 20px;
+    border: 2px solid green;
+    border-radius: 5px;
+    width: 200px;
+    text-align: center;
+    display: inline-block;  
+    
+}
+header {
+    text-align: center;
+}
